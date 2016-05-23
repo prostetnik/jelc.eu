@@ -1,19 +1,19 @@
 # General
-name: Minimal-Block
-description: "Minimalistic, friendly, responsive."
-url: https://drvy.github.io/minimal-block
+name: jelc.eu
+description: "Vogonska poezie Prostenika Jelce"
+url: http://jelc.eu
 
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 
 paginate: 5
 permalink: /:title
 
 # Social share and comments.
-disqus-id: drvy
-twitter: drvymonkey
-github: drvy
-google: +DrvyMonkey
+#disqus-id: drvy
+#twitter: drvymonkey
+github: jelc
+#google: +DrvyMonkey
 
 # RSS feed
 rss-feed-limit: 10
