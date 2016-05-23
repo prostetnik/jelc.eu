@@ -4,7 +4,7 @@ description: "Vogonska poezie Prostenika Jelce"
 url: http://jelc.eu
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 
 paginate: 5
 permalink: /:title
