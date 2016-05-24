@@ -1,6 +1,6 @@
 # General
 name: jelc.eu
-description: "Vogonska poezie Prostenika Jelce"
+description: "Vogonská poezie Prostenika Jelce"
 url: http://jelc.eu
 
 markdown: kramdown
@@ -11,7 +11,7 @@ permalink: /:title
 
 # Social share and comments.
 #disqus-id: drvy
-#twitter: drvymonkey
+twitter: ProstetnikJelc
 github: jelc
 #google: +DrvyMonkey
 
