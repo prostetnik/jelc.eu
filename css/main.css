@@ -205,7 +205,7 @@ blockquote {
 
 .links a {
     color: #212121;
-    text-transform: lowercase;
+    text-transform: capitalize;
 }
 
     .links a:hover, .links a:active {
